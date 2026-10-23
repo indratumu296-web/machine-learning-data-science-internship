@@ -310,17 +310,6 @@ Through these tasks, I aim to strengthen my practical understanding of:
 - Reproducible machine learning workflows.
 - GitHub-based project documentation and presentation.
 
-## 📌 Internship Deliverables
-
-The internship task pack specifies the completion of at least two or three predictive modeling tasks.
-
-My repository will include the completed task notebooks, source code, model evaluation metrics, visualizations, and supporting documentation.
-
-Additional proof of work can include:
-
-- A public GitHub repository.
-- A professional LinkedIn project walkthrough tagging **@Datheon**.
-- A Datheon verified certificate, subject to the organization's verification and completion requirements.
 
 ## 👨‍💻 Author
 
